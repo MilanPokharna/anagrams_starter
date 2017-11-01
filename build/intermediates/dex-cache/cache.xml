@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Lenovo\.android\build-cache\5cc9e135e5de304a7e0513133b6ebba4985b05b6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="E:\@PRACTICE\android\starter_code\anagrams_starter\app\build\intermediates\pre-dexed\debug\classes_91f029b6a73e034e9d83105a0befb66b51d82840.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Lenovo\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.1\support-annotations-22.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="E:\@PRACTICE\android\starter_code\anagrams_starter\app\build\intermediates\pre-dexed\debug\support-annotations-22.2.1_cacb3f509a2221dd063eb7531ca45ee1722c0cf4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Lenovo\.android\build-cache\06ef8a1c13a3bdccb724e6aa26d672e85652edaa\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="E:\@PRACTICE\android\starter_code\anagrams_starter\app\build\intermediates\pre-dexed\debug\classes_367c9555718009a0c9ad95cc54859addedc5c7e9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Lenovo\.android\build-cache\f4259acc80c60356ad971b264555df0993e3404a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1821601ddbec5ff125653097812823388700af74">
+        <dex dex="E:\@PRACTICE\android\starter_code\anagrams_starter\app\build\intermediates\pre-dexed\debug\classes_16d16c6d004b2805fcacedddd1b835d321bfc1df.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Lenovo\.android\build-cache\06ef8a1c13a3bdccb724e6aa26d672e85652edaa\output\jars\libs\internal_impl-22.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="E:\@PRACTICE\android\starter_code\anagrams_starter\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.1_9585ecd73e3206a068786a11043dee2044fba06d.jar" />
+    </item>
+
+</items>
